@@ -1,6 +1,8 @@
-portaudio-playground
-====================
-![](https://github.com/dirkarnez/portaudio-playground/actions/workflows/build.yml/badge.svg)
+cpp-channel-playground
+======================
+![](https://github.com/dirkarnez/cpp-channel-playground/actions/workflows/build.yml/badge.svg)
+
+From https://github.com/andreiavrammsd/cpp-channel/blob/master/examples/streaming.cpp
 
 ### Using
-- [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
+- [dirkarnez/cpp-channel-prebuilt](https://github.com/dirkarnez/cpp-channel-prebuilt)
